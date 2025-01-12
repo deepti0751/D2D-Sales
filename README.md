@@ -1,5 +1,5 @@
 # D2D-Sales
-Sales vs Orders: Likely compares sales metrics with order metrics.
+Sales vs Orders: Likely compares sales metrics with order metrics.\n
 D2D Store Report: A general or summary report for the D2D store.
 Men vs Women: Gender-based analysis, possibly of customers or product sales.
 Order Status: Likely tracks the status of orders (e.g., completed, pending, canceled).
